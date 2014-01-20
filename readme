@@ -1,4 +1,8 @@
 M6955--AKC6955--DSP-Radio-by-Arduino
 ====================================
 
-M6955 (AKC6955) DSP Radio by Arduino IDE. Simply connecting Arduino A4/A5 (SDA/SCL) to AKC6955 (M6955) and I2C character display enables wideband receiver. Rotary encoder for frequency tuning should be connected to A2 and A4, and band switch (changing MW, SW, FM ) should be connected to A3 with appropriate pull-up resistor.
+M6955 (AKC6955) DSP Radio by Arduino IDE. Simply connecting Arduino A4/A5 (SDA/SCL) to AKC6955 (M6955) 
+and I2C character display enables wideband receiver. Rotary encoder for frequency tuning should be connected 
+to A2 and A4, and band switch (changing MW, SW, FM ) should be connected to A3 with appropriate pull-up resistor.
+
+I2CLiquidCrystal library can be found in the bottom of a website http://n.mtng.org/ele/arduino/i2c.html (I2CLiquidCrystal-1.2.zip).
