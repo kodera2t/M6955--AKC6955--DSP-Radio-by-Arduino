@@ -1,3 +1,10 @@
+/*
+ * DSP Radio control program on Arduino IDE
+ *
+ *  Created on: Dec. 24 , 2013
+ *      Author: kodera2t
+ */
+
 #include <I2CLiquidCrystal.h>
 #include <Wire.h>
 I2CLiquidCrystal lcd(20, true);
