@@ -2,7 +2,7 @@
  * DSP Radio control program on Arduino IDE
  *
  *  Created on: Dec. 24 , 2013
- *      Author: kodera2t
+ *      Author: kodera2tもへある
  */
 
 #include <I2CLiquidCrystal.h>
